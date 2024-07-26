@@ -1,4 +1,4 @@
-# Prisma Practice Repository
+# Progress with SQLite | Prisma Practice 
 
 ## Overview
 
