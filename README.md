@@ -1,1 +1,1 @@
-# Next.js-App-Router-Prisma-Postgres
+# Nextjs project
